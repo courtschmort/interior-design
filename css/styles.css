@@ -1,0 +1,13 @@
+.column {
+  float: left;
+  margin: 12px
+}
+
+.paragraph {
+  float: left;
+  width: 100%
+}
+
+.bgcolor {
+  background-color: green;
+}
